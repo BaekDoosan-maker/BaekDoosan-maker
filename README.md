@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaekDoosan-maker
-- 👀 I’m interested in python, react, javascript.
+- 👀 I’m interested in Java, javascript, Spring
 - 🌱 I’m currently collaborate on mini-project in hanghae99. I am creating a site where I can share and record useful sites for Python study.
 - 📫 How to reach me <br>
      I shared the address of my study record website. It's right here. 
