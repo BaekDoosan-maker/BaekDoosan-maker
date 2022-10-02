@@ -1,12 +1,17 @@
 - 👋 Hi, I’m @BaekDoosan-maker
 - 👀 I’m interested in Java, javascript, Spring
-- 🌱 I’m currently collaborate on mini-project in hanghae99. I am creating a site where I can share and record useful sites for Python study.
-- 📫 How to reach me <br>
-     I shared the address of my study record website. It's right here. 
-     ----> https://doosan.tistory.com/ <br>
-     If you have any questions or need a way to contact me, you can email me here. 
-     -----> doosan0425@gmail.com <br>
-<!---
-BaekDoosan-maker/BaekDoosan-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently collaborate on mini-project in hanghae99. 
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BaekDoosan-maker/Doosan.git)](https://hits.seeyoufarm.com)      
+                                                <br>
+##  🍎 Spring 주특기 주차 ##
+
+| Week | 개인과제 | 팀과제 |커리큘럼 내용 |
+| ------ | -- | -- |----------- |
+| 1주차 |  ☑️ | |api명세서만들기|
+| 2주차 |  |  |  |
+| 3주차 |  |  |  |
+| 4주차 |  |  |  |
+| 5주차 |  |  | |
+| 6주차 |  |  |  |
+| 7주차 |  |  |  |
+| 8주차 |  |  |  |
