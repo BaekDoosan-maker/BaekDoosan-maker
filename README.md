@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaekDoosan-maker
 - 👀 I’m interested in Java, javascript, Spring
-- 🌱 I’m currently collaborate on mini-project in hanghae99. 
+- 🌱 I’m currently collaborate on clone-project in hanghae99. 
                                                 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BaekDoosan-maker/Doosan.git)](https://hits.seeyoufarm.com)      
                                                 <br>
 ##  🍎 Spring 주특기 주차 ##
