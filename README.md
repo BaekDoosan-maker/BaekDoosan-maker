@@ -4,5 +4,4 @@
                                                 <br>
 ##  🍎 2023 ##
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekDoosan-maker&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=BaekDoosan-maker&show_icons=true">
+
